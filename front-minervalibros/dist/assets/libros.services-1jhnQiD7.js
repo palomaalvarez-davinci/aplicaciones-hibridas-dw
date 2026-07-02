@@ -1,0 +1,1 @@
+import{t as e}from"./api.service-ClpkAS6D.js";var t=()=>{let{call:t}=e();return{getLibros:()=>t(`/libros`,`GET`),getLibroById:e=>t(`/libros/`+e,`GET`),saveLibro:e=>t(`/libros`,`POST`,e),updateLibro:(e,n)=>t(`/libros/`+e,`PUT`,n),deleteLibro:e=>t(`/libros/`+e,`DELETE`)}};export{t};

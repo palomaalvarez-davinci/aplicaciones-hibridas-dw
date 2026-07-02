@@ -1,0 +1,1 @@
+import{i as e,n as t,t as n}from"./jsx-runtime-bzQ4Vb5N.js";import{n as r,s as i}from"./index-HEUUbuqk.js";var a=e(t(),1),o=n(),s=()=>{let e=r(),t=i();return(0,a.useEffect)(()=>{e(),t(`/login`)},[]),(0,o.jsx)(`div`,{children:`Saliendo...`})};export{s as default};

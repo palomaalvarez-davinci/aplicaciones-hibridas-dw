@@ -1,0 +1,1 @@
+function e(e){return e?e.startsWith(`http`)||e.startsWith(`/images/`)?e:e.startsWith(`/uploads/`)?`http://localhost:3333`+e:`http://localhost:3333/uploads/`+e:`/images/mh.png`}export{e as t};
